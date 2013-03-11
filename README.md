@@ -3,8 +3,8 @@
 RoJeff Labs是个人在学习或研究新技术时，编写的示例代码。
 
 # 目录结构
-*cxf-labs-server：CXF示例服务端。
-*cxf-labs-client：CXF示例客户端。
+*cxf-labs-server：CXF示例服务端.
+*cxf-labs-client：CXF示例客户端.
 
 # 构建源码
 
